@@ -1,0 +1,19 @@
+
+{
+  "complaint": {
+    "title": "Register Complaint",
+    "problemTitle": "Problem Title",
+    "description": "Describe your complaint",
+    "locality": "Your Locality",
+    "submit": "Submit Complaint",
+    "success": "Complaint created successfully!",
+    "error": "Error creating complaint"
+  },
+  "category": {
+    "garbage": "Garbage",
+    "road": "Road",
+    "water": "Water",
+    "electricity": "Electricity",
+    "others": "Others"
+  }
+}
