@@ -15,7 +15,9 @@ A multilingual (Hindi + English) complaint registration system with image upload
 - 🌐 **Responsive Design** – Mobile and desktop compatible.
 
 ---
-
+### Images
+--HomePage:https://github.com/shreya-create-glitch/Complaint-Management-System/blob/master/Screenshot%20(22).png
+--HomePage(Down):https://github.com/shreya-create-glitch/Complaint-Management-System/blob/master/Screenshot%20(21).png
 
 
 ## 🧰 Tech Stack
